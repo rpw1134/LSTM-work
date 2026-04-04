@@ -1,5 +1,4 @@
 # MiniProject 4: Learning with Sequence Data (RNNs and Transformers)
-
 Please read this entire document before beginning the assignment.
 
 ## Preamble
